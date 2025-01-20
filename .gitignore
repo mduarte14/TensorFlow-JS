@@ -1,0 +1,7 @@
+node_modules
+/lorcana_images
+/lorcana-model
+/lorcana-model-archive
+allCards.json
+mtgAllprintings.json
+sanitizedAllCards.json

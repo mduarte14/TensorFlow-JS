@@ -1,0 +1,16 @@
+{
+  "name": "your-project",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "downloadImages.js",
+  "scripts": {
+    "start": "node downloadImages.js"
+  },
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.1",
+    "@tensorflow/tfjs-node": "^4.21.0",
+    "@tensorflow/tfjs-node-gpu": "^4.21.0",
+    "node-fetch": "^3.0.0",
+    "sharp": "^0.33.5"
+  }
+}
